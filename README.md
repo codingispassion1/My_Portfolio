@@ -1,4 +1,4 @@
-##✨ My Animated Portfolio Website
+## ✨ My Animated Portfolio Website
 
 This is a personal portfolio website I created to showcase my projects, skills, and experience.
 It’s modern, responsive, and has smooth animations to make browsing fun and engaging.
@@ -58,11 +58,11 @@ portfolio/
 - Font Awesome Icons
 - Google Fonts (Poppins)
 
-##🚀 Deployment
+## 🚀 Deployment
 
 I deployed this project using [GitHub Pages / Netlify / Vercel] (choose one you used).
 Now anyone can visit and see my work online.
 
-##👉 This portfolio is not just a project — it’s my digital identity, built and designed by me.
+## 👉 This portfolio is not just a project — it’s my digital identity, built and designed by me.
 
 Enjoy my new animated portfolio! 🚀
