@@ -34,11 +34,11 @@ portfolio/
 ├── styles.css          # CSS styles and animations
 ├── script.js           # JavaScript functionality
 ├── README.md           # This file
-├── your-photo.jpg      # Your profile photo (add this)
-├── about-image.jpg     # About section image (add this)
-├── project1.jpg        # Project 1 screenshot (add this)
-├── project2.jpg        # Project 2 screenshot (add this)
-└── project3.jpg        # Project 3 screenshot (add this)
+├── your-photo.jpg    
+├── about-image.jpg     
+├── project1.jpg        
+├── project2.jpg        
+└── project3.jpg       
 ```
 
 
